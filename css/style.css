@@ -1,0 +1,50 @@
+body {
+	background: black;
+	font-size: 22pt;
+	font-family: Ustroke Regular;
+}
+
+@font-face {
+	font-family: 'Ustroke Regular'; 
+	src: url(../fonts/font.ttf); 
+}
+
+.contentImage {
+	width: 600px;
+	height: 500px;
+}
+
+.monolog {
+	color: rgb(11, 196, 164);
+	width: 500px;
+}
+
+.action {
+	color: gray;
+	width: 500px;
+	text-decoration: none;
+}
+
+.action:hover {
+	color: white;
+}
+
+.start {
+	color: gray;
+	width: 500px;
+	text-decoration: none;
+}
+
+.start:hover {
+	color: white;
+}
+
+.back {
+	margin-top: 10px;
+	display: inline-block;
+}
+
+.back_image {
+	width: 60px;
+	height: 60px;
+}
